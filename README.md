@@ -1,6 +1,7 @@
 # 👋 Hello! My name is Paulo Roberto.
 #### I'm a backend developer aiming to become full stack.
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pauloroberto.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulorobertovrc/) ![](https://visitcount.itsvg.in/api?id=paulorobertovrc&icon=1&color=12)![](https://komarev.com/ghpvc/?username=your-github-username)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pauloroberto.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulorobertovrc/) ![](https://komarev.com/ghpvc/?username=paulorobertovrc)
+
 ## My current tech stack
 <div style="display: inline_block">
 <img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
