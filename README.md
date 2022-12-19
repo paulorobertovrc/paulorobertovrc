@@ -9,6 +9,11 @@
 <img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />          
 </div>
 
+## I’m currently learning
+<div style="display: inline_block">
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+</div>
+
 ## On these I have some previous experience
 <div style="display: inline_block">
 <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -21,11 +26,6 @@
 <div style="display: inline_block">          
 <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-</div>          
-
-## I’m currently learning
-<div style="display: inline_block">
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 </div>
 
 ## On the horizon
