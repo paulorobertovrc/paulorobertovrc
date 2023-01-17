@@ -34,5 +34,5 @@
 <br>
 <div align="center">
 <img height=200em src="https://github-readme-streak-stats.herokuapp.com/?user=paulorobertovrc&theme=nord&hide_border=false" />
-<img height=200em src=https://github-readme-stats.vercel.app/api/top-langs/?username=paulorobertovrc&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img height=200em src=https://github-readme-stats-p1rh.vercel.app/api/top-langs/?username=paulorobertovrc&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
