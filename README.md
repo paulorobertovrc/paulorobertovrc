@@ -24,12 +24,12 @@
 <img height="60" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
-## On the horizon
+<!-- ## On the horizon
 <div style="display: inline_block">
 <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
 <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />          
 <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />          
-</div>
+</div> -->
 <br>
 <br>
 <div align="center">
