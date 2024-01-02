@@ -1,18 +1,21 @@
 # 👋 Hello! My name is Paulo Roberto.
-#### I'm a backend developer aiming to become full stack.
+#### I'm a backend developer diving into the studies of data science and machine learning.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pauloroberto.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulorobertovrc/)
 
 ## My current tech stack
 <div style="display: inline_block">
-<img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> &nbsp;&nbsp;
-<img height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />          
+<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> &nbsp;&nbsp;
+<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
 </div>
 
 ## I’m currently learning
 <div style="display: inline_block">
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> &nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />        
+<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> &nbsp;&nbsp;
+<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> &nbsp;&nbsp;
+<img height="75" width="75" src="https://github.com/paulorobertovrc/paulorobertovrc/assets/70707151/bce47a2d-9dcd-4274-b24a-636d3fc85524" /> &nbsp;&nbsp;
+<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 </div>
 
 ## Minor previous experience
