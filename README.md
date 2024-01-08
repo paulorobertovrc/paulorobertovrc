@@ -14,18 +14,18 @@
 <div style="display: inline_block">
 <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> &nbsp;&nbsp;
 <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> &nbsp;&nbsp;
-<img height="75" width="75" src="https://github.com/paulorobertovrc/paulorobertovrc/assets/70707151/bce47a2d-9dcd-4274-b24a-636d3fc85524" /> &nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /> &nbsp;&nbsp;
+<img height="75" width="75" src="https://github.com/paulorobertovrc/paulorobertovrc/assets/70707151/bce47a2d-9dcd-4274-b24a-636d3fc85524" />
 </div>
 
 ## Minor previous experience
 <div style="display: inline_block">
-<img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> &nbsp;&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> &nbsp;&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> &nbsp;&nbsp;
+<img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /> &nbsp;&nbsp;
 <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 </div>
 
 <!-- ## On the horizon
