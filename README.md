@@ -1,11 +1,12 @@
 # Paulo Roberto V. R. Cavalcanti
-👋 Olá! Sou um programador autodidata com experiência no desenvolvimento de aplicações de *backend* e familiaridade com linguagens e *frameworks* de *frontend*. Pós-graduando *lato sensu* em Inteligência Artificial e Computacional, graduando em Engenharia de Software e bacharel em Direito.
+- Estudante autodidata de Computação e áreas afins, inclusive Inteligência Artificial
+- Programador autodidata com experiência no desenvolvimento de aplicações de *backend*, especialmente em Java, e familiaridade com linguagens e *frameworks* de *frontend*.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pauloroberto.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulorobertovrc/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paulocavalcan.ti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulorobertovrc/)
 
 ## Habilidades técnicas
 - Java | Spring | mySQL | Angular
 - APIs RESTful e microsserviços
 - *Single-page applications*
 - Páginas institucionais
-- Estudando inteligência artificial e *machine learning*
+- Estudante de inteligência artificial e *machine learning*
